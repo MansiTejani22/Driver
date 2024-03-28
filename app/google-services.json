@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "232590768159",
+    "firebase_url": "https://drivehub-d969b-default-rtdb.firebaseio.com",
+    "project_id": "drivehub-d969b",
+    "storage_bucket": "drivehub-d969b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232590768159:android:e1d74f15749a20a85f3d2a",
+        "android_client_info": {
+          "package_name": "com.drivehub.drivehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIbZP4zRwj2t8WUe3jva6ngSE4PIMPQI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232590768159:android:4808cc893856b6795f3d2a",
+        "android_client_info": {
+          "package_name": "com.example.admindata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIbZP4zRwj2t8WUe3jva6ngSE4PIMPQI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232590768159:android:d039e1da6511051e5f3d2a",
+        "android_client_info": {
+          "package_name": "com.example.demoadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIbZP4zRwj2t8WUe3jva6ngSE4PIMPQI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DriverApp</string>
+    <string name="phone">What’s your number?</string>
+    <string name="phoneNo">Enter Phone no</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+</resources>

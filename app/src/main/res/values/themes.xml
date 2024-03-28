@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.DemoAdmin" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Theme that inherits from Base.Theme.DemoAdmin -->
+    <style name="Theme.DemoAdmin" parent="Base.Theme.DemoAdmin" >
+        <item name="android:statusBarColor">@color/yellow</item>
+    </style>
+    <style name="Theme.MyApp" parent="Theme.MaterialComponents"/>
+
+    <!-- Full screen theme without action bar and title -->
+
+
+</resources>
